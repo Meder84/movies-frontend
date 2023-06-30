@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Meder84/movies-explorer-frontend.git/static/css/main.88c055b9.css",
-    "main.js": "/Meder84/movies-explorer-frontend.git/static/js/main.61ef6d5f.js",
-    "static/media/mediumItalic.woff": "/Meder84/movies-explorer-frontend.git/static/media/mediumItalic.3d0107dd43d0101274d3.woff",
-    "static/media/black.woff": "/Meder84/movies-explorer-frontend.git/static/media/black.c6938660eec019fefd68.woff",
-    "static/media/regular.woff": "/Meder84/movies-explorer-frontend.git/static/media/regular.8c206db99195777c6769.woff",
-    "static/media/medium.woff2": "/Meder84/movies-explorer-frontend.git/static/media/medium.293fd13dbca5a3e450ef.woff2",
-    "static/media/black.woff2": "/Meder84/movies-explorer-frontend.git/static/media/black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/regular.woff2": "/Meder84/movies-explorer-frontend.git/static/media/regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/promoLogo.png": "/Meder84/movies-explorer-frontend.git/static/media/promoLogo.60f4d1be83704b432748.png",
-    "static/media/logo.svg": "/Meder84/movies-explorer-frontend.git/static/media/logo.7824ff40b6a35dbefe14.svg",
-    "index.html": "/Meder84/movies-explorer-frontend.git/index.html",
-    "static/media/iconAccount.svg": "/Meder84/movies-explorer-frontend.git/static/media/iconAccount.705090399674329c2f8a.svg",
-    "static/media/iconLike.svg": "/Meder84/movies-explorer-frontend.git/static/media/iconLike.06f92cf9a04142e4539d.svg",
-    "static/media/iconHamburger.svg": "/Meder84/movies-explorer-frontend.git/static/media/iconHamburger.da5a7a60ea06a1c03d5224c4a3a0344c.svg",
-    "static/media/iconDelete.svg": "/Meder84/movies-explorer-frontend.git/static/media/iconDelete.f07a6251eed64c9cd7cb.svg",
-    "static/media/iconLikeRed.svg": "/Meder84/movies-explorer-frontend.git/static/media/iconLikeRed.8481cdda6178dd21eef4.svg",
-    "static/media/iconClosePopup.svg": "/Meder84/movies-explorer-frontend.git/static/media/iconClosePopup.09da049275af48ed6340.svg",
-    "main.88c055b9.css.map": "/Meder84/movies-explorer-frontend.git/static/css/main.88c055b9.css.map",
-    "main.61ef6d5f.js.map": "/Meder84/movies-explorer-frontend.git/static/js/main.61ef6d5f.js.map"
+    "main.css": "/movies-frontend/static/css/main.7307dfb3.css",
+    "main.js": "/movies-frontend/static/js/main.3ddf8c82.js",
+    "static/media/mediumItalic.woff": "/movies-frontend/static/media/mediumItalic.3d0107dd43d0101274d3.woff",
+    "static/media/black.woff": "/movies-frontend/static/media/black.c6938660eec019fefd68.woff",
+    "static/media/regular.woff": "/movies-frontend/static/media/regular.8c206db99195777c6769.woff",
+    "static/media/medium.woff2": "/movies-frontend/static/media/medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/black.woff2": "/movies-frontend/static/media/black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/regular.woff2": "/movies-frontend/static/media/regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/promoLogo.png": "/movies-frontend/static/media/promoLogo.60f4d1be83704b432748.png",
+    "static/media/logo.svg": "/movies-frontend/static/media/logo.7824ff40b6a35dbefe14.svg",
+    "index.html": "/movies-frontend/index.html",
+    "static/media/iconAccount.svg": "/movies-frontend/static/media/iconAccount.705090399674329c2f8a.svg",
+    "static/media/iconLike.svg": "/movies-frontend/static/media/iconLike.06f92cf9a04142e4539d.svg",
+    "static/media/iconHamburger.svg": "/movies-frontend/static/media/iconHamburger.da5a7a60ea06a1c03d5224c4a3a0344c.svg",
+    "static/media/iconDelete.svg": "/movies-frontend/static/media/iconDelete.f07a6251eed64c9cd7cb.svg",
+    "static/media/iconLikeRed.svg": "/movies-frontend/static/media/iconLikeRed.8481cdda6178dd21eef4.svg",
+    "static/media/iconClosePopup.svg": "/movies-frontend/static/media/iconClosePopup.09da049275af48ed6340.svg",
+    "main.7307dfb3.css.map": "/movies-frontend/static/css/main.7307dfb3.css.map",
+    "main.3ddf8c82.js.map": "/movies-frontend/static/js/main.3ddf8c82.js.map"
   },
   "entrypoints": [
-    "static/css/main.88c055b9.css",
-    "static/js/main.61ef6d5f.js"
+    "static/css/main.7307dfb3.css",
+    "static/js/main.3ddf8c82.js"
   ]
 }

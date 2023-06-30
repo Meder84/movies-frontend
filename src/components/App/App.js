@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Route, Switch, useHistory } from 'react-router-dom/cjs/react-router-dom.min';
+import { Route, Switch, useHistory } from 'react-router-dom';
+import { Router } from 'react-router-dom/cjs/react-router-dom';
+// import { Route, Switch, useHistory } from 'react-router-dom/cjs/react-router-dom.min';
+// import { Route, Switch, useHistory } from 'react-router-dom/cjs/react-router-dom';
 import Main from '../Main/Main'
 import Register from '../Register/Register';
 import Login from '../Login/Login';
